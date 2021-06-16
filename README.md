@@ -1,7 +1,7 @@
 ## I'm beginner Frontend developer 
 
 ### Languages & Tools
-![React](https://img.shields.io/badge/REACT-111?style=for-the-badge&logo=REACT)
+![React](https://img.shields.io/badge/REACT-000?style=for-the-badge&logo=REACT)
 ![Redux](https://img.shields.io/badge/REDUX-111?style=for-the-badge&logo=Redux&logoColor=violet)
 ![JS](https://img.shields.io/badge/JavaScript-111?style=for-the-badge&logo=JavaScript&logoColor=yellow)
 ![React Router](https://img.shields.io/badge/ReactRouter-111?style=for-the-badge&logo=ReactRouter&logoColor=yellow)
