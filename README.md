@@ -15,3 +15,7 @@
 ![CSS](https://img.shields.io/badge/CSS-000?style=for-the-badge&logo=css&logoColor=fff)
 ![Prettier](https://img.shields.io/badge/Prettier-000?style=for-the-badge&logo=Prettier&logoColor=yellow)
 ![ESLint](https://img.shields.io/badge/ESLint-000?style=for-the-badge&logo=ESLint&logoColor=fff)
+
+### Follow Me
+
+[![instagram](https://img.shields.io/badge/instagram-000?style=for-the-badge&logo=instagram&logoColor=B4068E)](https://www.instagram.com/nrh843/)
