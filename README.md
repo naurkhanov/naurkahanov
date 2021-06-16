@@ -19,7 +19,7 @@
 ### Мои работы
 
 -  Десктопный чат на React/Redux
-![Код](https://github.com/naurkhanov/react-chat) | ![Демо](https://reactappchatbeta.herokuapp.com/)
+[Код](https://github.com/naurkhanov/react-chat) | [Демо](https://reactappchatbeta.herokuapp.com/)
 
 ### Follow Me
 
