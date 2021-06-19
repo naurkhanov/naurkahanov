@@ -24,10 +24,10 @@
 ### Мои работы
 
 - Система контроля задолженности на React/Redux
-[Код](https://github.com/naurkhanov/acr) | [Демо](https://acrsystem.herokuapp.com/login)
+[Код](https://github.com/naurkhanov/acr)
 
 -  Десктопный чат на React/Redux
-[Код](https://github.com/naurkhanov/react-chat) | [Демо](https://reactappchatbeta.herokuapp.com/)
+[Код](https://github.com/naurkhanov/react-chat)
    
 ### Features
 
