@@ -5,6 +5,7 @@
 ![Redux](https://img.shields.io/badge/REDUX-000?style=for-the-badge&logo=Redux&logoColor=violet)
 ![JS](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=JavaScript&logoColor=yellow)
 ![TypeScript](https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=TypeScript&logoColor=)
+![Node.js](https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=Node.js&logoColor=)
 ![React Router](https://img.shields.io/badge/ReactRouter-000?style=for-the-badge&logo=ReactRouter&logoColor=yellow)
 ![Styled-Components](https://img.shields.io/badge/StyledComponents-000?style=for-the-badge&logo=StyledComponents&logoColor=purpl)
 ![Reselect](https://img.shields.io/badge/RESELECT-000?style=for-the-badge&logo=&logoColor=1)
