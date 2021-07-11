@@ -31,7 +31,7 @@
 -  Десктопный чат на React/Redux
 [Код](https://github.com/naurkhanov/react-chat-remastered) | [Демо](https://react-chat-remastered.herokuapp.com/)
 
-- Contact List [КОД](https://github.com/naurkhanov/TestTaskContactList)   
+- Contact List [Код](https://github.com/naurkhanov/TestTaskContactList)   
    
 ### Features
 
