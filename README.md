@@ -35,14 +35,6 @@
 
 - Игра крестики нолики на js [Код](https://github.com/naurkhanov/noughts-and-crosses)
 
-- Мини игра Aim Game на js [Код](https://github.com/naurkhanov/aimGame)
-
-- Мини игра ColorChange на js [Код](https://github.com/naurkhanov/colorGame)
-
-- Drag & Drop [Код](https://github.com/naurkhanov/drag-drop)
-
-- Необычный слайдер [Код](https://github.com/naurkhanov/slider)
-
 ### Follow Me
 
 [![instagram](https://img.shields.io/badge/instagram-000?style=for-the-badge&logo=instagram&logoColor=B4068E)](https://www.instagram.com/nrh843/)
