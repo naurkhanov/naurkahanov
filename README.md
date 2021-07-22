@@ -31,9 +31,6 @@
 -  Десктопный чат на React/Redux
 [Код](https://github.com/naurkhanov/react-chat-remastered) | [Демо](https://react-chat-remastered.herokuapp.com/)
    
-### Features
-
-- Игра крестики нолики на js [Код](https://github.com/naurkhanov/noughts-and-crosses)
 
 ### Follow Me
 
