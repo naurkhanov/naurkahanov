@@ -32,9 +32,11 @@
 - Система контроля задолженности на React/Redux
 [Код](https://github.com/naurkhanov/acr) | [Демо](https://acrsystem.herokuapp.com/)
   
--  Десктопный чат на React/Redux
+- Десктопный чат на React/Redux
 [Код](https://github.com/naurkhanov/react-chat-remastered) | [Демо](https://react-chat-remastered.herokuapp.com/)
-   
+
+- Поиск фильмов
+[Код](https://github.com/naurkhanov/movies) | [Демо](https://naurkhanov.github.io/movies/)
 
 ### Follow Me
 
