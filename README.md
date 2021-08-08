@@ -6,8 +6,10 @@
 ![JS](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=JavaScript&logoColor=yellow)
 ![TypeScript](https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=TypeScript&logoColor=)
 ![Node.js](https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=Node.js&logoColor=)
-![React Router](https://img.shields.io/badge/ReactRouter-000?style=for-the-badge&logo=ReactRouter&logoColor=yellow)
+![GraphQl](https://img.shields.io/badge/GraphQl-000?style=for-the-badge&logo=GraphQl&logoColor=)
+![SASS](https://img.shields.io/badge/SASS-000?style=for-the-badge&logo=SASS&logoColor=)
 ![Styled-Components](https://img.shields.io/badge/StyledComponents-000?style=for-the-badge&logo=StyledComponents&logoColor=purpl)
+![React Router](https://img.shields.io/badge/ReactRouter-000?style=for-the-badge&logo=ReactRouter&logoColor=yellow)
 ![Reselect](https://img.shields.io/badge/RESELECT-000?style=for-the-badge&logo=&logoColor=1)
 ![Redux-Thunk](https://img.shields.io/badge/ReduxThunk-000?style=for-the-badge&logo=&logoColor=1)
 ![GIT](https://img.shields.io/badge/GIT-000?style=for-the-badge&logo=GIT)
@@ -16,11 +18,10 @@
 ![HTML](https://img.shields.io/badge/HTML-000?style=for-the-badge&logo=html&logoColor=red)
 ![CSS](https://img.shields.io/badge/CSS-000?style=for-the-badge&logo=css&logoColor=fff)
 ![Prettier](https://img.shields.io/badge/Prettier-000?style=for-the-badge&logo=Prettier&logoColor=yellow)
-![ESLint](https://img.shields.io/badge/ESLint-000?style=for-the-badge&logo=ESLint&logoColor=fff)
 ![Heroku](https://img.shields.io/badge/Heroku-000?style=for-the-badge&logo=Heroku&logoColor=violet)
 ![WebStorm](https://img.shields.io/badge/WebStorm-000?style=for-the-badge&logo=WebStorm&logoColor=)
-![SASS](https://img.shields.io/badge/SASS-000?style=for-the-badge&logo=SASS&logoColor=)
-![GraphQl](https://img.shields.io/badge/GraphQl-000?style=for-the-badge&logo=GraphQl&logoColor=)
+
+
 
 
 
