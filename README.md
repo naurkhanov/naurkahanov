@@ -6,6 +6,9 @@
 ![JS](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=JavaScript&logoColor=yellow)
 ![TypeScript](https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=TypeScript&logoColor=)
 ![Node.js](https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=Node.js&logoColor=)
+![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=Next.js&logoColor=)
+![Nest.js](https://img.shields.io/badge/Nest.js-000?style=for-the-badge&logo=Nest.js&logoColor=)
+![MongoDB](https://img.shields.io/badge/MongoDB-000?style=for-the-badge&logo=MongoDB&logoColor=)
 ![GraphQl](https://img.shields.io/badge/GraphQl-000?style=for-the-badge&logo=GraphQl&logoColor=)
 ![SASS](https://img.shields.io/badge/SASS-000?style=for-the-badge&logo=SASS&logoColor=)
 ![Styled-Components](https://img.shields.io/badge/StyledComponents-000?style=for-the-badge&logo=StyledComponents&logoColor=purpl)
@@ -20,7 +23,6 @@
 ![Prettier](https://img.shields.io/badge/Prettier-000?style=for-the-badge&logo=Prettier&logoColor=yellow)
 ![Heroku](https://img.shields.io/badge/Heroku-000?style=for-the-badge&logo=Heroku&logoColor=violet)
 ![WebStorm](https://img.shields.io/badge/WebStorm-000?style=for-the-badge&logo=WebStorm&logoColor=)
-
 ![CodeWars](https://www.codewars.com/users/dnarkh/badges/large)
 
 
