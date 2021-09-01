@@ -35,8 +35,7 @@
 - Десктопный чат на React/Redux
 [Код](https://github.com/naurkhanov/react-chat-remastered) | [Демо](https://react-chat-remastered.herokuapp.com/)
 
-- Поиск фильмов
-[Код](https://github.com/naurkhanov/movies) | [Демо](https://naurkhanov.github.io/movies/)
+
 
 ### Follow Me
 
