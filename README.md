@@ -39,5 +39,5 @@
 
 
 ### Follow Me
-
+[![](https://img.shields.io/badge/telegram-D14836?color=2CA5E0&style=for-the-badge&logo=telegram&logoColor=white&&s=250)](https://t.me/koolfild)
 [![instagram](https://img.shields.io/badge/instagram-000?style=for-the-badge&logo=instagram&logoColor=B4068E)](https://www.instagram.com/nrh843/)
