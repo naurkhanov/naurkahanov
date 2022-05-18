@@ -1,4 +1,3 @@
-### Добро пожаловать!✋ Меня зовут Дени,мне 18 лет 
 
 ### Languages & Tools
 ![React](https://img.shields.io/badge/REACT-000?style=for-the-badge&logo=REACT)
