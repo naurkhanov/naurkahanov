@@ -25,6 +25,8 @@
 ![Heroku](https://img.shields.io/badge/Heroku-000?style=for-the-badge&logo=Heroku&logoColor=violet)
 ![WebStorm](https://img.shields.io/badge/WebStorm-000?style=for-the-badge&logo=WebStorm&logoColor=)
 
+![CodeWars](https://www.codewars.com/users/kolfild/badges/large)
+
 ### Мои работы
 
 - Система контроля задолженности на React/Redux
