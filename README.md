@@ -26,15 +26,5 @@
 ![WebStorm](https://img.shields.io/badge/WebStorm-000?style=for-the-badge&logo=WebStorm&logoColor=)
 
 
-### Мои работы
-
-- Система контроля задолженности на React/Redux
-[Код](https://github.com/naurkhanov/acr) | [Демо](https://acrsystem.herokuapp.com/)
-  
-- Десктопный чат на React/Redux
-[Код](https://github.com/naurkhanov/react-chat-remastered) | [Демо](https://react-chat-remastered.herokuapp.com/)
-
-
-
 ### Follow Me
 [![](https://img.shields.io/badge/telegram-D14836?color=2CA5E0&style=for-the-badge&logo=telegram&logoColor=white&&s=250)](https://t.me/nrh843)
