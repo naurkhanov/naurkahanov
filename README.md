@@ -11,19 +11,11 @@
 ![GraphQl](https://img.shields.io/badge/GraphQl-000?style=for-the-badge&logo=GraphQl&logoColor=)
 ![SASS](https://img.shields.io/badge/SASS-000?style=for-the-badge&logo=SASS&logoColor=)
 ![Styled-Components](https://img.shields.io/badge/StyledComponents-000?style=for-the-badge&logo=StyledComponents&logoColor=purpl)
-![React Router](https://img.shields.io/badge/ReactRouter-000?style=for-the-badge&logo=ReactRouter&logoColor=yellow)
-![Reselect](https://img.shields.io/badge/RESELECT-000?style=for-the-badge&logo=&logoColor=1)
-![Redux-Thunk](https://img.shields.io/badge/ReduxThunk-000?style=for-the-badge&logo=&logoColor=1)
-![GIT](https://img.shields.io/badge/GIT-000?style=for-the-badge&logo=GIT)
-![GitLab](https://img.shields.io/badge/GitLab-000?style=for-the-badge&logo=GitLab&logoColor=)
-![BitBucket](https://img.shields.io/badge/BitBucket-000?style=for-the-badge&logo=BitBucket&logoColor=)
-![GitHub](https://img.shields.io/badge/ESLint-000?style=for-the-badge&logo=GitHub&logoColor=fff)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-000?style=for-the-badge&logo=Bootstrap)
 ![HTML](https://img.shields.io/badge/HTML-000?style=for-the-badge&logo=html&logoColor=red)
 ![CSS](https://img.shields.io/badge/CSS-000?style=for-the-badge&logo=css&logoColor=fff)
-![Prettier](https://img.shields.io/badge/Prettier-000?style=for-the-badge&logo=Prettier&logoColor=yellow)
-![Heroku](https://img.shields.io/badge/Heroku-000?style=for-the-badge&logo=Heroku&logoColor=violet)
-![WebStorm](https://img.shields.io/badge/WebStorm-000?style=for-the-badge&logo=WebStorm&logoColor=)
+
+
+
 
 
 ### Follow Me
