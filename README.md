@@ -9,8 +9,4 @@
 ![Nest.js](https://img.shields.io/badge/Nest.js-000?style=for-the-badge&logo=Nest.js&logoColor=)
 ![MongoDB](https://img.shields.io/badge/MongoDB-000?style=for-the-badge&logo=MongoDB&logoColor=)
 ![GraphQl](https://img.shields.io/badge/GraphQl-000?style=for-the-badge&logo=GraphQl&logoColor=)
-![SASS](https://img.shields.io/badge/SASS-000?style=for-the-badge&logo=SASS&logoColor=)
-![Styled-Components](https://img.shields.io/badge/StyledComponents-000?style=for-the-badge&logo=StyledComponents&logoColor=purpl)
-![HTML](https://img.shields.io/badge/Html-000?style=for-the-badge&logo=html&logoColor=red)
-![CSS](https://img.shields.io/badge/Css-000?style=for-the-badge&logo=css&logoColor=fff)
 
