@@ -9,7 +9,7 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-000?style=for-the-badge&logo=MongoDB&logoColor=)
 ![GraphQl](https://img.shields.io/badge/GraphQl-000?style=for-the-badge&logo=GraphQl&logoColor=violet)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=naurkhanov&theme=shadow_red&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=naurkhanov&theme=dark&show_icons=true)
 
 <!--START_SECTION:waka-->
 
