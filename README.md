@@ -7,6 +7,7 @@
 ![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=Next.js&logoColor=)
 ![GraphQl](https://img.shields.io/badge/GraphQl-000?style=for-the-badge&logo=GraphQl&logoColor=violet)
 
+
 <!--START_SECTION:waka-->
 
 ```txt
