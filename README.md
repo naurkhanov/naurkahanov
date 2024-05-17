@@ -7,15 +7,3 @@
 ![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=Next.js&logoColor=)
 ![GraphQl](https://img.shields.io/badge/GraphQl-000?style=for-the-badge&logo=GraphQl&logoColor=violet)
 
-
-<!--START_SECTION:waka-->
-
-```txt
-HTML         1 hr 31 mins    ████████████▒░░░░░░░░░░░░   49.88 %
-CSS          1 hr 4 mins     ████████▓░░░░░░░░░░░░░░░░   35.18 %
-TypeScript   23 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.78 %
-JavaScript   3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.84 %
-Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 %
-```
-
-<!--END_SECTION:waka-->
